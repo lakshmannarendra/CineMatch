@@ -16,6 +16,11 @@ app.use(loggingMiddleware);
 // Apply routes
 app.use('/api', movieRoutes);
 
+// Add a root route for friendly message or default Express behavior
+app.get('/', (req, res) => {
+  res.status(404).send('Cannot GET /');
+});
+
 app.listen(PORT, () => {
   console.log(`Backend running on http://localhost:${PORT}`);
   console.log(`Loaded ${movies.length} movies`);
