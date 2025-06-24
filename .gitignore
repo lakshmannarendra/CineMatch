@@ -36,4 +36,9 @@ Thumbs.db
 __pycache__/
 *.pyc
 
+# Node lock files
+package-lock.json
+frontend/package-lock.json
+backend/package-lock.json
+
 
