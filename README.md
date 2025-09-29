@@ -102,7 +102,6 @@ npm run dev
 - **BM25**: Probabilistic information retrieval model
 - **TF-IDF**: Term Frequency-Inverse Document Frequency
 - **Bag of Words**: Jaccard similarity
-- **BERT**: (Mocked) Embedding-based similarity (for demo; real BERT requires Python/ONNX)
 
 ---
 
