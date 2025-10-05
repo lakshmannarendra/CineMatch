@@ -1,6 +1,6 @@
 # CineMatch
 
-CineMatch is an AI-powered movie recommendation web application that uses advanced NLP algorithms (BM25, TF-IDF, Bag of Words, and BERT) to suggest movies based on your input. The project is split into a React frontend and a Node.js/Express backend.
+CineMatch is an AI-powered movie recommendation web application that uses advanced NLP algorithms (BM25, TF-IDF, Bag of Words) to suggest movies based on your input. The project is split into a React frontend and a Node.js/Express backend.
 
 ---
 
