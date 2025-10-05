@@ -7,7 +7,7 @@ CineMatch is an AI-powered movie recommendation web application that uses advanc
 ## Features
 - Modern React frontend with Tailwind CSS
 - Express.js backend with modular controllers, routes, and middlewares
-- Multiple NLP-based recommendation algorithms (BM25, TF-IDF, Bag of Words, BERT)
+- Multiple NLP-based recommendation algorithms (BM25, TF-IDF, Bag of Words)
 - OMDb API integration for movie posters and IMDb links
 - Ready for deployment on Vercel
 
